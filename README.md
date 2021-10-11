@@ -22,6 +22,9 @@ Desenvolvedor ousado com conhecimentos em JavaScript, React, RPA e C/C++. Partic
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-om/)](https://www.linkedin.com/in/wesley-om/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maia.weol@gmail.com)](mailto:maia.weol@gmail.com)
+
 
 <!--
 **Wesley-Maia/Wesley-Maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
