@@ -1,6 +1,10 @@
 # Hello! I'm Wesley Maia, Software Developer and Electronic Engineer.
 
-Desenvolvedor ousado com conhecimentos em JavaScript, React, RPA e C/C++. Participei como desenvolvedor de sistemas embarcados em startup, com foco em soluções na área de Internet das Coisas, e em empresa de desenvolvimento de equipamentos médicos. Atualmente estudando Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/). Estou em transição de carreira e busco aprender e me aprimorar nos conhecimentos de desenvolvimento de software.
+Sou uma pessoa que acredita no poder de transformações positivas que a tecnologia pode provocar na vida das pessoas, principalmente a área de programação. E foi justamente isso que mais me encantou durante o meu desenvolvimento nos cursos de Engenharia Eletrônica e Desenvolvimento Web Full Stack.
+ 
+Ao longo da minha jornada profissional tive a oportunidade de trabalhar em projetos que permitiram o aprimoramento das minhas habilidades de gerenciamento, desenvolvimento, integração de hardware/software e comunicação assertiva, trabalhando de forma colaborativa com equipes multidiciplinares. 
+ 
+Disposição para novos aprendizados? Sempre, sem medo de começar do zero.
 
 <div align="start" margin-bottom="20px">
   <a href="https://github.com/Wesley-Maia">
